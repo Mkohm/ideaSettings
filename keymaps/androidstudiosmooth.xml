@@ -45,10 +45,6 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="meta h" />
   </action>
-  <action id="EditorUpWithSelection">
-    <keyboard-shortcut first-keystroke="shift up" />
-    <keyboard-shortcut first-keystroke="shift meta h" />
-  </action>
   <action id="FileChooser.NewFolder" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -57,6 +53,14 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="MethodHierarchy" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+    <keyboard-shortcut first-keystroke="shift meta h" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
