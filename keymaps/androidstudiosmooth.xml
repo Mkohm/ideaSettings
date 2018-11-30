@@ -59,7 +59,11 @@
   <action id="MethodHierarchy" />
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="shift meta down" />
-    <keyboard-shortcut first-keystroke="shift meta t" />
+    <keyboard-shortcut first-keystroke="shift meta alt t" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+    <keyboard-shortcut first-keystroke="shift meta alt h" />
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -68,6 +72,7 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
+  <action id="PopupHector" />
   <action id="PreviousEditorTab">
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
