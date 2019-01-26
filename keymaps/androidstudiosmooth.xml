@@ -60,14 +60,6 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="MethodHierarchy" />
-  <action id="MoveStatementDown">
-    <keyboard-shortcut first-keystroke="shift meta down" />
-    <keyboard-shortcut first-keystroke="shift meta alt t" />
-  </action>
-  <action id="MoveStatementUp">
-    <keyboard-shortcut first-keystroke="shift meta up" />
-    <keyboard-shortcut first-keystroke="shift meta alt h" />
-  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -76,7 +68,6 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
-  <action id="PopupHector" />
   <action id="PreviousEditorTab">
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
@@ -89,12 +80,6 @@
   <action id="SaveAll" />
   <action id="StepInto" />
   <action id="Vcs.UpdateProject" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl meta r" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
-  </action>
   <action id="tasks.goto" />
   <action id="tasks.switch" />
 </keymap>
