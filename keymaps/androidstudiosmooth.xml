@@ -50,9 +50,6 @@
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
   <action id="FileChooser.NewFolder" />
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="f7" />
-  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -64,7 +61,6 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="NewScratchFile" />
-  <action id="NextDiff" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
@@ -78,14 +74,7 @@
   <action id="RecentFiles" />
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SaveAll" />
-  <action id="StepInto" />
   <action id="Vcs.UpdateProject" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl meta r" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
-  </action>
   <action id="tasks.goto" />
   <action id="tasks.switch" />
 </keymap>
