@@ -5,6 +5,7 @@
       <mapping ext="realm" type="Native" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping pattern="test_prefetcher_single_test" type="Python" />
     </extensionMap>
   </component>
 </application>
