@@ -4,6 +4,8 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="realm" type="Native" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="simout" type="PLAIN_TEXT" />
+      <mapping pattern="simerr" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping pattern="test_prefetcher_single_test" type="Python" />
     </extensionMap>
