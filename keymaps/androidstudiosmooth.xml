@@ -4,6 +4,7 @@
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="down" />
   </action>
   <action id="EditorDownWithSelection">
     <keyboard-shortcut first-keystroke="shift down" />
@@ -15,6 +16,7 @@
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="left" />
   </action>
   <action id="EditorLeftWithSelection">
     <keyboard-shortcut first-keystroke="shift meta n" />
@@ -37,6 +39,7 @@
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="meta s" />
+    <keyboard-shortcut first-keystroke="right" />
   </action>
   <action id="EditorRightWithSelection">
     <keyboard-shortcut first-keystroke="shift right" />
@@ -44,10 +47,14 @@
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="meta h" />
+    <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="EditorUpWithSelection">
     <keyboard-shortcut first-keystroke="shift up" />
     <keyboard-shortcut first-keystroke="shift meta h" />
+  </action>
+  <action id="ExternalSystem_c7e47481unifiedandroidappsc7e47481lint">
+    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
   <action id="FileChooser.NewFolder" />
   <action id="Generate">
