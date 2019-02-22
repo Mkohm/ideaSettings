@@ -19,6 +19,8 @@
       <value>
         <package name="android" withSubpackages="true" static="false" />
         <emptyLine />
+        <package name="androidx" withSubpackages="true" static="false" />
+        <emptyLine />
         <package name="com" withSubpackages="true" static="false" />
         <emptyLine />
         <package name="junit" withSubpackages="true" static="false" />
@@ -134,6 +136,7 @@
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
+            <order>ANDROID_ATTRIBUTE_ORDER</order>
           </rule>
         </section>
         <section>
