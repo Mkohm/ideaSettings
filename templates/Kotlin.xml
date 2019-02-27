@@ -1,0 +1,8 @@
+<templateSet group="Kotlin">
+  <template name="test" value="@Test&#10;fun $NAME$() {&#10;    $END$&#10;}" description="test" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
