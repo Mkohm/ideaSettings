@@ -1,4 +1,7 @@
 <keymap version="1" name="androidstudiosmooth" parent="Mac OS X 10.5+">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="ctrl meta alt s" />
+  </action>
   <action id="CIDR.Lang.ImportsHierarchy">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
