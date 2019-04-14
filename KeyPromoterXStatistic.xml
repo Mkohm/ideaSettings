@@ -6,7 +6,23 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Logcat">
+        <Item>
+          <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
+          <ShortCut>'⌘6'</ShortCut>
+          <Description>Logcat</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Make Project">
+        <Item>
+          <IdeaActionID>MakeGradleProject</IdeaActionID>
+          <ShortCut>'⌘F9'</ShortCut>
+          <Description>Make Project</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -14,7 +30,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
@@ -22,7 +38,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>2</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'unifiedandroidapps:app [lintRelease]'">
@@ -30,6 +46,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'unifiedandroidapps:app [lintRelease]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'app'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'app'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -46,7 +70,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>
