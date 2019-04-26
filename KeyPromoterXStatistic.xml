@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>20</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
