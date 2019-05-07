@@ -30,7 +30,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Logcat">
@@ -46,7 +46,7 @@
           <IdeaActionID>MakeGradleProject</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Make Project</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -134,7 +134,7 @@
           <IdeaActionID>Android.SyncProject</IdeaActionID>
           <ShortCut>'⌃⌥⌘S'</ShortCut>
           <Description>Sync Project with Gradle Files</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
