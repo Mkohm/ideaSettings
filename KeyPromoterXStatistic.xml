@@ -166,7 +166,7 @@
           <IdeaActionID>Android.SyncProject</IdeaActionID>
           <ShortCut>'⌃⌥⌘S'</ShortCut>
           <Description>Sync Project with Gradle Files</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -174,7 +174,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
