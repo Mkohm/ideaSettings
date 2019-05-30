@@ -70,7 +70,7 @@
           <IdeaActionID>MakeGradleProject</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Make Project</Description>
-          <Count>24</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'addnewdevice''">
@@ -134,7 +134,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'unifiedandroidapps:app [lintRelease]'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Code Coverage Data">
@@ -182,7 +182,7 @@
           <IdeaActionID>Android.SyncProject</IdeaActionID>
           <ShortCut>'⌃⌥⌘S'</ShortCut>
           <Description>Sync Project with Gradle Files</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -190,7 +190,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
