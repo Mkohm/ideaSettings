@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -121,6 +121,14 @@
           <Count>36</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'All Tests'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'All Tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'addnewdevice''">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -134,7 +142,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>58</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'unifiedandroidapps:app [lintRelease]'">
@@ -169,6 +177,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.oslofjorden.binaryGenerator.BinaryPolylineGeneratorKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.oslofjorden.binaryGenerator.BinaryPolylineGeneratorKt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'unifiedandroidapps [lintRelease]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -198,7 +214,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>91</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
