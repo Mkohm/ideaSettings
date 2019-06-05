@@ -94,7 +94,7 @@
           <IdeaActionID>MakeGradleProject</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Make Project</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -134,7 +134,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -190,7 +190,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.oslofjorden.binaryGenerator.BinaryPolylineGeneratorKt'">
@@ -230,7 +230,7 @@
           <IdeaActionID>Android.SyncProject</IdeaActionID>
           <ShortCut>'⌃⌥⌘S'</ShortCut>
           <Description>Sync Project with Gradle Files</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>96</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
