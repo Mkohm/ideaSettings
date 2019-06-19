@@ -22,6 +22,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="mkohm" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://kode.knowit.no" />
+          <option name="userName" value="marius.kohmann@knowit.no" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Code/Work/Airthings" />
