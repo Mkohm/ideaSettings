@@ -5,6 +5,7 @@
   <action id="CIDR.Lang.ImportsHierarchy">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
+  <action id="Console.TableResult.SetNull" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
@@ -22,6 +23,18 @@
   <action id="EditorLeftWithSelection">
     <keyboard-shortcut first-keystroke="shift left" />
     <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="meta alt n" />
   </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -64,6 +77,7 @@
   <action id="GotoSuperMethod" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="Inline" />
   <action id="MethodHierarchy" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
