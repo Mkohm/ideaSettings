@@ -66,6 +66,10 @@
   <action id="GotoSuperMethod" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="meta alt n" />
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />

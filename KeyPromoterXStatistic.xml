@@ -105,6 +105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Inline...">
+        <Item>
+          <IdeaActionID>Inline</IdeaActionID>
+          <ShortCut>'⌥⌘N'</ShortCut>
+          <Description>Inline...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Logcat">
         <Item>
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
@@ -286,7 +294,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>128</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
