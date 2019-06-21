@@ -5,9 +5,12 @@
   <action id="CIDR.Lang.ImportsHierarchy">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
-  <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="meta t" />
-    <keyboard-shortcut first-keystroke="down" />
+  <action id="Console.TableResult.SetNull" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="EditorDownWithSelection">
     <keyboard-shortcut first-keystroke="shift down" />
@@ -17,12 +20,21 @@
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="caps_lock" />
   </action>
-  <action id="EditorLeft">
-    <keyboard-shortcut first-keystroke="meta n" />
-    <keyboard-shortcut first-keystroke="left" />
-  </action>
   <action id="EditorLeftWithSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
     <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="meta alt n" />
   </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -41,7 +53,6 @@
     <keyboard-shortcut first-keystroke="shift alt n" />
   </action>
   <action id="EditorRight">
-    <keyboard-shortcut first-keystroke="meta s" />
     <keyboard-shortcut first-keystroke="right" />
   </action>
   <action id="EditorRightWithSelection">
@@ -49,7 +60,6 @@
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="meta h" />
     <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="EditorUpWithSelection">
@@ -63,14 +73,20 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="GotoRelated" />
   <action id="GotoSuperMethod" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
-  <action id="Inline">
-    <keyboard-shortcut first-keystroke="meta alt n" />
-    <keyboard-shortcut first-keystroke="meta alt i" />
-  </action>
+  <action id="Inline" />
   <action id="MethodHierarchy" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="shift meta alt t" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="shift meta alt h" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -78,6 +94,7 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
+  <action id="PopupHector" />
   <action id="PreviousEditorTab">
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
