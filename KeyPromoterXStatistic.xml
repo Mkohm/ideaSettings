@@ -286,7 +286,7 @@
           <IdeaActionID>Android.SyncProject</IdeaActionID>
           <ShortCut>'⌃⌥⌘S'</ShortCut>
           <Description>Sync Project with Gradle Files</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
