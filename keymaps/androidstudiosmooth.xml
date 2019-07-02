@@ -8,9 +8,11 @@
   <action id="Console.TableResult.SetNull" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
   </action>
   <action id="EditorDownWithSelection">
     <keyboard-shortcut first-keystroke="shift down" />
