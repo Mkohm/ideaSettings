@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add Comment">
+        <Item>
+          <IdeaActionID>CodeStream.AddComment</IdeaActionID>
+          <ShortCut>'⌃/, C'</ShortCut>
+          <Description>Add Comment</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
