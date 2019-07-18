@@ -6,7 +6,7 @@
           <IdeaActionID>CodeStream.AddComment</IdeaActionID>
           <ShortCut>'⌃/, C'</ShortCut>
           <Description>Add Comment</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -238,7 +238,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>109</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.oslofjorden.bina...'">
@@ -254,7 +254,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'com.oslofjorden.binaryGenerator.BinaryPolylineGeneratorKt'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'unifiedandroidapps:app [lintRelease]'">
