@@ -1,4 +1,8 @@
 <keymap version="1" name="androidstudiosmooth" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="ctrl meta alt s" />
   </action>
