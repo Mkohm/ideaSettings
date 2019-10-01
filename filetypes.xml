@@ -15,6 +15,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="realm" type="Native" />
       <mapping pattern="simout" type="PLAIN_TEXT" />
+      <mapping pattern="websites" type="PLAIN_TEXT" />
       <mapping pattern="simerr" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
