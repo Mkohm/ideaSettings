@@ -82,7 +82,7 @@
     <keyboard-shortcut first-keystroke="shift up" />
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
-  <action id="ExternalSystem_c7e47481unifiedandroidappsc7e47481lint">
+  <action id="ExternalSystem_c7e47481unifiedandroidappsc7e47481lintRelease">
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
   <action id="FileChooser.NewFolder" />
