@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="run startup script" description="Start the local server" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="run mainframer" description="run mainframer build" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/sh" />
-      <option name="PARAMETERS" value="run.sh" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Code/Work/sommerjobb2019/lokasjon" />
+      <option name="PARAMETERS" value="mainframer.sh ./gradlew app:assembleDebug" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Code/Work/Airthings/unifiedandroidapps" />
     </exec>
   </tool>
 </toolSet>

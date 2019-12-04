@@ -2,12 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="realm" type="Native" />
-      <mapping pattern="simout" type="PLAIN_TEXT" />
       <mapping pattern="websites" type="PLAIN_TEXT" />
-      <mapping pattern="simerr" type="PLAIN_TEXT" />
       <mapping pattern="tools - website" type="PLAIN_TEXT" />
+      <mapping pattern="remoteignore" type="PLAIN_TEXT" />
       <mapping pattern="spec_failures" type="PLAIN_TEXT" />
+      <mapping pattern="simerr" type="PLAIN_TEXT" />
+      <mapping pattern="localignore" type="PLAIN_TEXT" />
+      <mapping pattern="ignore" type="PLAIN_TEXT" />
       <mapping pattern="rankingResults" type="PLAIN_TEXT" />
+      <mapping pattern="simout" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
