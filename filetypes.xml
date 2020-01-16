@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="realm" type="Native" />
       <mapping pattern="spec_failures" type="PLAIN_TEXT" />
       <mapping pattern="rankingResults" type="PLAIN_TEXT" />
