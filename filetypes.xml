@@ -1,25 +1,25 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="realm" type="Native" />
-      <mapping pattern="websites" type="PLAIN_TEXT" />
-      <mapping pattern="tools - website" type="PLAIN_TEXT" />
-      <mapping pattern="remoteignore" type="PLAIN_TEXT" />
       <mapping pattern="spec_failures" type="PLAIN_TEXT" />
-      <mapping pattern="simerr" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern="localignore" type="PLAIN_TEXT" />
-      <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
-      <mapping pattern="ignore" type="PLAIN_TEXT" />
       <mapping pattern="rankingResults" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
+      <mapping pattern="websites" type="PLAIN_TEXT" />
       <mapping pattern="simout" type="PLAIN_TEXT" />
+      <mapping pattern="simerr" type="PLAIN_TEXT" />
+      <mapping pattern="localignore" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="remoteignore" type="PLAIN_TEXT" />
+      <mapping pattern="ignore" type="PLAIN_TEXT" />
+      <mapping pattern="tools - website" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="test_prefetcher_single_test" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Makefile" approved="true" type="PLAIN_TEXT" />
@@ -27,7 +27,6 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern="test_prefetcher_single_test" type="Python" />
     </extensionMap>
   </component>
 </application>
