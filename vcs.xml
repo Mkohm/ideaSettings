@@ -34,9 +34,13 @@
           <option name="url" value="https://github.com/arturbosch/detekt" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mre/awesome-static-analysis" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Code/School" />
+    <option name="cloneParentDir" value="$USER_HOME$/Code/School/master/code" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
