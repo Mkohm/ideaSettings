@@ -6,6 +6,7 @@
       <mapping ext="realm" type="Native" />
       <mapping pattern="simerr" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="argsfile_detekt_hint" type="PLAIN_TEXT" />
       <mapping pattern="spec_failures" type="PLAIN_TEXT" />
       <mapping pattern="websites" type="PLAIN_TEXT" />
       <mapping pattern="ignore" type="PLAIN_TEXT" />
