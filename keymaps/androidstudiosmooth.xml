@@ -107,6 +107,9 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="shift meta alt h" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
