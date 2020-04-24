@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="df.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="realm" type="Native" />
       <mapping pattern="simerr" type="PLAIN_TEXT" />
