@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="danger-kotlin">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/danger-kotlin.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
