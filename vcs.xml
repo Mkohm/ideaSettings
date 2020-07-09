@@ -46,9 +46,17 @@
           <option name="url" value="https://github.com/openhab/openhab-android" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/corentiumapps/backoffice_flutter/src/master/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/OwnWeb/flutter_map_tappable_polyline.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Code/School/master/code" />
+    <option name="cloneParentDir" value="$USER_HOME$/Code/Work/Personal" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
