@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'unifiedandroidapps'" />
-    <option name="defaultScopeName" value="Project 'unifiedandroidapps'" />
-    <option name="SEARCH_SCOPE" value="Project 'unifiedandroidapps'" />
+    <option name="customScope" value="File '.../app/src/main/java/com/airthings/airthings/usecase/manageinstrument/ManageDeviceFragment.kt [app]'" />
+    <option name="defaultScopeName" value="File '.../app/src/main/java/com/airthings/airthings/usecase/manageinstrument/ManageDeviceFragment.kt [app]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/com/airthings/airthings/usecase/manageinstrument/ManageDeviceFragment.kt [app]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
